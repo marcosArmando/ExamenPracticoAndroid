@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExamenPracticoAndroid</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ultimaUbicacion">Última ubicación</string>
+    <string name="seEncontro">Se encontró la última ubicación</string>
+    <string name="ocurrioError">Ocurrio un Error</string>
+    <string name="sinFechaValida">No hay fecha válida</string>
+    <string name="noHayInternet">No hay conexión a Internet</string>
+    <string name="reviseConexion">Revise su conexión y reinicie la app, por favor.</string>
+</resources>
